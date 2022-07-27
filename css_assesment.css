@@ -1,0 +1,12 @@
+.family{
+    color: brown;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#italic{
+    color:red;
+    background-color: yellow;
+  
+}
+a{
+    text-decoration: none;
+}
